@@ -1,18 +1,18 @@
 {
-	"name": "minlare/jquery-onexcept",
-	"description": "jQuery plugin which allows binding of events to all elements excluding specified selectors.",
-	"type": "library",
-	"license": "MIT",
-	"repositories": [
-		{
-			"type": "vcs",
-			"url": "git@github.com:minlare/jquery-onexcept.git"
-		}
-	],
-	"authors": [
-		{
-			"name": "minlare",
-			"email": "michaelwindell@gmail.com"
-		}
-	]
+    "name": "minlare/jquery-onexcept",
+    "description": "jQuery plugin which allows binding of events to all elements excluding specified selectors.",
+    "type": "library",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:minlare/jquery-onexcept.git"
+        }
+    ],
+    "authors": [
+        {
+            "name": "minlare",
+            "email": "michaelwindell@gmail.com"
+        }
+    ]
 }
