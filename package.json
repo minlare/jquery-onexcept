@@ -1,0 +1,19 @@
+{
+  "name": "jquery-onexcept",
+  "version": "1.0.0",
+  "description": "jQuery.onExcept function which stops propagation of events on child elements",
+  "main": "jquery-onexcept.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minlare/jquery-onexcept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minlare/jquery-onexcept/issues"
+  },
+  "homepage": "https://github.com/minlare/jquery-onexcept#readme"
+}
